@@ -1,0 +1,12 @@
+h1 {
+	margin: 65px;
+	text-transform: uppercase;
+	font-family: Arial;
+}
+p {
+ margin-top: 20px;
+}
+
+img {
+	min-height: 150px;
+}
