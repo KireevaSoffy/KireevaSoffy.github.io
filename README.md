@@ -15,4 +15,4 @@
 
 [Урок 12](адрес "Описание")
 
-[Урок 13](адрес "Описание")
+[Урок 13](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_13)
