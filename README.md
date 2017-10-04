@@ -16,3 +16,7 @@
 [Урок 12](адрес "Описание")
 
 [Урок 13](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_13/part_2)
+
+[Урок 14.1](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_14/part_1 "Шрифты")
+
+[Урок 14.2] (https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_14/part_2 "Верстка первого экрана")
