@@ -20,3 +20,7 @@
 [Урок 14.1](https://kireevasoffy.github.io/Lesson_14.1/part1/ "Подключение шрифтов")
 
 [Урок 14.2](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_14/part_2 "Верстка первого экрана")
+
+[Урок 15.1](https://kireevasoffy.github.io/lesson_15/part_1/index.html "Эффекты" )
+
+[Урок 15.1](https://kireevasoffy.github.io/lesson_15/part_2/index.html "Адаптив сайта")
