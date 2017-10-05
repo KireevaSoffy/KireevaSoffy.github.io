@@ -23,4 +23,4 @@
 
 [Урок 15.1](https://kireevasoffy.github.io/lesson_15/part_1/index.html "Эффекты" )
 
-[Урок 15.1](https://kireevasoffy.github.io/lesson_15/part_2/index.html "Адаптив сайта")
+[Урок 15.2](https://kireevasoffy.github.io/lesson_15/part_2/index.html "Адаптив сайта")
