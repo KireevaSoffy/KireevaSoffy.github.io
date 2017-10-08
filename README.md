@@ -25,6 +25,6 @@
 
 [Урок 15.2](https://kireevasoffy.github.io/lesson_15/part_2/index.html "Адаптив сайта")
 
-[Урок 16.1](KireevaSoffy.github.io/lesson_16/part1/index.html)
+[Урок 16.1](https://KireevaSoffy.github.io/lesson_16/part1/index.html)
 
 [Урок 16.2](https://kireevasoffy.github.io/lesson_16/part2/index.html )
