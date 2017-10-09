@@ -28,3 +28,7 @@
 [Урок 16.1](https://KireevaSoffy.github.io/lesson_16/part1/index.html)
 
 [Урок 16.2](https://kireevasoffy.github.io/lesson_16/part2/index.html )
+
+[Урок 17.1]()
+
+[Урок 17.2](https://kireevasoffy.github.io/lesson_17.1/index.html)
