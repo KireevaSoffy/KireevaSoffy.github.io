@@ -1,0 +1,66 @@
+
+.main-btn {
+  width: 20rem;
+  height: 5rem;
+  border-radius: 5px;
+  position: fixed;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+}
+.popup {
+  display: none;
+  width: 40rem;
+  height: 10rem;
+  background-color: #ece4c0;
+  border: 1px solid #7a1b21;
+  position: fixed;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+
+}
+h3 {
+  text-align: center;
+  margin-top: 10px;
+}
+.popup-header {
+font-size: 15px;
+font-family: sans-serif;
+font-weight: 600;
+}
+
+.btn-close { 
+  position: absolute;
+  top: -1.5rem;
+  right: -1.5rem;
+  cursor: pointer;
+  width: 3rem;
+  height: 3rem;
+  line-height: 2.4rem;
+  background: #ce4c4a;
+  border-radius: 999px;
+  border: 1px solid #7a1b21; 
+  font-size: 3rem;
+  font-family: sans-serif;
+}
+
+
+.yes {
+
+width: 10rem;
+height: 3rem;
+margin-top: 2rem;
+display: inline-block;
+margin-left: 8rem;
+background-color: #ce4c4a;
+border: 1px solid #7a1b21;
+ 
+}
+.no {
+width: 10rem;
+height: 3rem;
+margin-left: 2rem;
+background: #66af91;
+border: 1px solid #377766;
+}
