@@ -15,7 +15,9 @@
 
 [Урок 12](адрес "Описание")
 
-[Урок 13](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_13/part_2)
+[Урок 13.1](https://kireevasoffy.github.io/13part1/index.html)
+
+[Урок 13.2](https://github.com/KireevaSoffy/KireevaSoffy.github.io/tree/master/lesson_13/part_2)
 
 [Урок 14.1](https://kireevasoffy.github.io/Lesson_14.1/part1/ "Подключение шрифтов")
 
@@ -38,3 +40,11 @@
 [Урок 18.2](https://KireevaSoffy.github.io/18part2/index.html)
 
 [Урок 18.3](https://KireevaSoffy.github.io/18part3/index.html)
+
+[Урок 19.1]
+
+[Урок 19.2]
+
+[Урок 20.1](https://kireevasoffy.github.io/20part1/index.html)
+
+[Урок 20.2]
