@@ -32,3 +32,9 @@
 [Урок 17.1](https://kireevasoffy.github.io/lesson_17.2/index.html)
 
 [Урок 17.2](https://kireevasoffy.github.io/lesson_17.1/index.html)
+
+[Урок 18.1]((https://KireevaSoffy.github.io/18part1/index.html)
+
+[Урок 18.2](https://KireevaSoffy.github.io/18part2/index.html)
+
+[Урок 18.3](https://KireevaSoffy.github.io/18part3/index.html)
