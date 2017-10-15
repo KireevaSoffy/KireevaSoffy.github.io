@@ -39,7 +39,7 @@
 
 [Урок 18.2](https://KireevaSoffy.github.io/18part2/index.html)
 
-[Урок 18.3](https://KireevaSoffy.github.io/18partt3/index.html)
+[Урок 18.3](https://kireevasoffy.github.io/18_3/index.html)
 
 [Урок 19.1]
 
