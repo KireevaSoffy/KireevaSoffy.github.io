@@ -43,7 +43,7 @@
 
 [Урок 19.1]
 
-[Урок 19.2]
+[Урок 19.2](https://KireevaSoffy.github.io/19_2/index.html)
 
 [Урок 20.1](https://kireevasoffy.github.io/20part1/index.html)
 
