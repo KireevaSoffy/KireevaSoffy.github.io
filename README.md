@@ -47,4 +47,4 @@
 
 [Урок 20.1](https://kireevasoffy.github.io/20part1/index.html)
 
-[Урок 20.2]
+[Урок 20.2](https://kireevasoffy.github.io/20part2/index.html)
