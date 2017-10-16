@@ -51,7 +51,7 @@
 
 [Урок 21.1](https://kireevasoffy.github.io/21.1/index.html)
 
-[Урок 21.2]
+[Урок 21.2](https://kireevasoffy.github.io/21.2/index.html)
 
 [Урок 22.1](https://kireevasoffy.github.io/22.1/index.html)
 
