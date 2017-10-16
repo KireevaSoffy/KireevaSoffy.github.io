@@ -1,0 +1,108 @@
+
+
+.block {
+
+  width: 320px;
+  height: 368.6px;
+  background-color: white;
+  border: 1px solid #cfdede;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.header {
+  width: 149px;
+  height: 26px;
+  text-transform: uppercase;
+  background-color: #01b3b3;
+  font-size: 12px;
+  font-weight: 900;
+  color: white;
+  position: absolute;
+  margin-top: -5px;
+  margin-left: 30px;
+  
+ }
+
+ h3 {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 5.5px;
+  margin-left: 3.5px;
+  font-weight: 600;
+   font-family: Arial;
+
+ }
+
+ 
+
+ p {
+   margin-top: 12px;
+  margin-left: 28px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Arial;
+ } 
+
+
+
+.text-on{
+ margin-top: 51px;
+ margin-left: 30px;
+}
+
+.text-tt {
+  margin-top: 15.5px;
+  margin-left: 31px;
+}
+
+.text-tth {
+  margin-top: 16.5px;
+  margin-left: 30px;
+}
+
+
+input {
+   width: 258px;
+   height: 28px;
+   background-color: #ebf4f4;
+   border: 1px solid #cfdede;
+   margin-left: 30px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   font-size: 12px;
+   color: #bac0c0;
+}
+.one {
+  margin-top: 0px;
+
+}
+.two {
+margin-top: 3px;
+}
+.three {
+margin-top: 2px;
+} 
+
+.button {
+   width: 260px;
+   height: 43px;
+   margin: 34px 30px 30px 30px;
+   background-color: #01c0c0;
+   border: none;
+   color: white;
+   font-size: 16px;
+   font-weight: bold;
+   text-transform: uppercase;
+   border: 1px solid #06bfbf;
+  border-radius: 3px;
+
+}
+
+
+
+ 
