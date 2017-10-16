@@ -55,4 +55,4 @@
 
 [Урок 22.1](https://kireevasoffy.github.io/22.1/index.html)
 
-[Урок 22.2]
+[Урок 22.2](https://kireevasoffy.github.io/22.2/index.html)
